@@ -15,7 +15,7 @@ const CONFIG = {
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
         hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
-        bears: ['😋', '🥰']                       // Cute bear emojis
+        bears: ['🥰']                       // Cute bear emojis
     },
 
     // Questions and answers
@@ -51,7 +51,7 @@ const CONFIG = {
     celebration: {
         title: "So come soon and cuddle me my cutieee",
         message: "We will do so much more than just kissing 😈😋",
-        emojis: "😋😚🥰❤️"  // These will bounce around
+        emojis: "🥰❤️"  // These will bounce around
     },
 
     // Color scheme for the website
