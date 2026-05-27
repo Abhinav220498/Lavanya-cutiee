@@ -49,7 +49,7 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "So come soon and cuddle my cutieee",
+        title: "So come soon and cuddle me my cutieee",
         message: "We will do so much more than just kissing 😈😋",
         emojis: "😋😚🥰❤️"  // These will bounce around
     },
