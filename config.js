@@ -22,7 +22,7 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Would you come cuddle and kiss me cutiee?",                                    // First interaction
+            text: "Would you like to come cuddle and kiss me cutiee?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
             secretAnswer: "I will love to kiss you and do more 🥰😈"           // Secret hover message
@@ -49,8 +49,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Hehe, so come soon and cuddle my cutieee",
-        message: "We will do so much more than just kisses 😈😋",
+        title: "So come soon and cuddle my cutieee",
+        message: "We will do so much more than just kissing 😈😋",
         emojis: "😋😚🥰❤️"  // These will bounce around
     },
 
